@@ -1,4 +1,5 @@
-# Heatmax CRM Step 4
+# Heatmax CRM – Hotfix Version
 
-Includes quote builder, PDF export, and WhatsApp message preview.
+Includes download and copy-to-WhatsApp functionality.
+
 Run `npm install` and `npm start` to launch.
