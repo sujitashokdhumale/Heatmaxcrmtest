@@ -1,7 +1,3 @@
-# Heatmax CRM MVP
+# Heatmax CRM Phase 2
 
-This is a minimal React-based CRM quote builder app.
-
-## Setup
-1. Run `npm install`
-2. Run `npm start`
+Run `npm install` and `npm start` to launch the app.

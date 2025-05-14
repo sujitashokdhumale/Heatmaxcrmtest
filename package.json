@@ -1,5 +1,5 @@
 {
-  "name": "heatmax-crm",
+  "name": "heatmax-crm-phase2",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   }
 }
