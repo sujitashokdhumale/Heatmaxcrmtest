@@ -1,3 +1,4 @@
-# Heatmax CRM Step 3
+# Heatmax CRM Step 4
 
-Run `npm install` and `npm start` to launch the app.
+Includes quote builder, PDF export, and WhatsApp message preview.
+Run `npm install` and `npm start` to launch.
