@@ -1,55 +1,6 @@
-.layout {
-  display: flex;
-  height: 100vh;
-}
-.sidebar {
-  width: 200px;
-  background: #f44336;
-  color: white;
-  padding: 20px;
-}
-.sidebar h2 {
-  margin: 0;
-}
-.sidebar ul {
-  list-style: none;
-  padding: 0;
-}
-.sidebar ul li {
-  margin: 15px 0;
-  cursor: pointer;
-}
-.main {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-}
-.topbar {
-  background: #333;
-  color: white;
-  padding: 10px 20px;
-}
-.content {
-  padding: 20px;
-  overflow-y: auto;
-}
-.product-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 15px;
-}
-.product-card {
-  border: 1px solid #ccc;
-  padding: 10px;
-  border-radius: 6px;
-}
-.quote-header {
-  margin-bottom: 20px;
-}
-.quote-cart {
-  margin-top: 30px;
-}
-textarea {
-  width: 100%;
-  margin-top: 10px;
-}
+.container { padding: 20px; font-family: Arial, sans-serif; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; }
+.card { border: 1px solid #ccc; padding: 10px; border-radius: 6px; text-align: center; }
+.cart-item { margin-bottom: 10px; }
+button { margin: 5px; }
+.status-label { font-weight: bold; padding: 4px 8px; border-radius: 4px; background-color: #eee; display: inline-block; }
