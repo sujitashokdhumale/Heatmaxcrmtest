@@ -1,3 +1,3 @@
-# Heatmax CRM – Step 6
+# Heatmax CRM – Step 7
 
-Includes quote saving, history list, and basic quote ID tracking.
+Includes full layout with sidebar, header, quote save, PDF, and WhatsApp features.
