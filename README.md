@@ -1,3 +1,3 @@
-# Heatmax CRM – Step 7
+# Heatmax CRM – Step 8 Final
 
-Includes full layout with sidebar, header, quote save, PDF, and WhatsApp features.
+Includes working quote status logic and full React setup.
