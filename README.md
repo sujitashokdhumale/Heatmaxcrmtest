@@ -1,4 +1,3 @@
-# Heatmax CRM – Step 5 UI Upgrade
+# Heatmax CRM – Step 6
 
-Includes product grid, quote builder, PDF export, and WhatsApp preview.
-Run `npm install` and `npm start` to launch.
+Includes quote saving, history list, and basic quote ID tracking.
