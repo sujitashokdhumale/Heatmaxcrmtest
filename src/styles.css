@@ -1,6 +1,7 @@
-.container { padding: 20px; font-family: Arial, sans-serif; }
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; }
-.card { border: 1px solid #ccc; padding: 10px; border-radius: 6px; text-align: center; }
-.cart-item { margin-bottom: 10px; }
-button { margin: 5px; }
-.status-label { font-weight: bold; padding: 4px 8px; border-radius: 4px; background-color: #eee; display: inline-block; }
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
